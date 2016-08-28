@@ -1,2 +1,2 @@
 # rpg.py-project-latest
-Text based rpg
+Text based RPG
