@@ -1,7 +1,7 @@
 # rpg.py-project
 rpg python game
 - Description
-*Text based rpg game made in Python for a school project
+1. Text based rpg game made in Python for a school project
 - Requirements
-*Python 2.7
+1. Python 2.7
 
